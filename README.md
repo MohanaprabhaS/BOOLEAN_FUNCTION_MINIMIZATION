@@ -56,8 +56,10 @@ endmodule
 
 
 
-**Truth Table
+**Truth Table:**
+
 ![Screenshot 2025-04-23 191034](https://github.com/user-attachments/assets/32af139b-acbb-43ce-9074-a7efc96f5f82)
+
 
 ![Screenshot 2025-04-23 191055](https://github.com/user-attachments/assets/4798de78-5fab-4277-92be-deba955a2c79)
 
